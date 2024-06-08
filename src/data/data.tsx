@@ -25,7 +25,7 @@ import porfolioImage8 from '../images/portfolio/portfolio-8.jpg';
 import porfolioImage9 from '../images/portfolio/portfolio-9.jpg';
 import porfolioImage10 from '../images/portfolio/portfolio-10.jpg';
 import porfolioImage11 from '../images/portfolio/portfolio-11.jpg';
-import profilepic from '../images/profilepic.jpg';
+import profilepic from '../images/profilepic.jpeg';
 import testimonialImage from '../images/testimonial.webp';
 import {
   About,
@@ -107,12 +107,12 @@ export const aboutData: About = {
   to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
   in.`,
   aboutItems: [
-    {label: 'Location', text: 'Victoria, BC', Icon: MapIcon},
+    {label: 'Location', text: 'Banbridge, Northern Ireland', Icon: MapIcon},
     {label: 'Age', text: '29', Icon: CalendarIcon},
-    {label: 'Nationality', text: 'Canadian / Irish', Icon: FlagIcon},
-    {label: 'Interests', text: 'Motorcycles, Muay Thai, Banjos', Icon: SparklesIcon},
-    {label: 'Study', text: 'University of Victoria', Icon: AcademicCapIcon},
-    {label: 'Employment', text: 'Instant Domains, inc.', Icon: BuildingOffice2Icon},
+    {label: 'Nationality', text: 'UK-born Pakistani', Icon: FlagIcon},
+    {label: 'Interests', text: 'Football, Video games, Anime', Icon: SparklesIcon},
+    {label: 'Study', text: 'University College Dublin', Icon: AcademicCapIcon},
+    {label: 'Employment', text: 'WuXi Biologics', Icon: BuildingOffice2Icon},
   ],
 };
 
